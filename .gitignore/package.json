@@ -1,0 +1,14 @@
+{
+  "name": "Toinoubot"
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripta": {
+    "test": "echo \"Error: no test specified\"&& exit 1"
+  },
+  "author": "antoine",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
